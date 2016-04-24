@@ -30,6 +30,7 @@
 
 
 struct module_state {
+    int:0;
 };
 
 
